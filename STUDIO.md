@@ -39,7 +39,7 @@ Konuyu bilen bir mühendis gibi, sade cümlelerle. Reklam dili, abartı, "devrim
 ## Kanallar
 - LinkedIn: kişisel profil (asıl gönderiler) + Günay Studio sayfası (linkedin.com/company/gunay-studio). Gönderiler sayfayı etiketler.
 - GitHub: yusufgunay-esq
-- Site: yusufgunay-esq.github.io (kurulmadı)
+- Site: https://yusufgunay-esq.github.io (GitHub Pages, main)
 
 ## Bu not ne değildir
 Ürün listesi ya da yol haritası değildir. Yeni ürün çıktıkça yalnız "Ne yapar" bölümü güncellenir; ilkeler değişmez.
