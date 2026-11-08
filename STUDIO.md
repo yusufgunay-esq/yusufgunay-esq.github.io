@@ -27,13 +27,13 @@ Hiçbir ürün markanın yüzü değildir; marka hepsinin çatısıdır.
 5. **Ölçü Apple.** Her ekran ve ikon "büyük bir stüdyodan çıkmış" gibi durmalı.
 
 ## Ses (yazı dili)
-Konuyu bilen bir mühendis gibi, sade cümlelerle. Reklam dili, abartı, "devrim" yok. Bir şeyi anlatırken kararı, bedelini ve sınırını söyler. (Ayrıntı: gunay-studio `sade-uzman` skill'i.)
+Konuyu bilen bir mühendis gibi, sade cümlelerle. Reklam dili, abartı, "devrim" yok. Bir şeyi anlatırken kararı, bedelini ve sınırını söyler.
 
 ## Görsel kimlik
 - İşaret: yüksek kontrastlı serif **G** (Cormorant kökenli, path). Ek süs yok.
 - Yazı: "Günay Studio", aynı serif, path olarak (font bağımlılığı yok).
 - Renk: logo tek renk (siyah #0D0C0A ya da fildişi #F5F2EB). Marka imza rengi **derin yeşil #16362D**; logoda değil, zeminde kullanılır (profil görseli, kapak, site vurgusu).
-- Dosyalar: `marka/` (logo-siyah/fildisi/yesil.svg, yazi-siyah/fildisi.svg, 400px profil PNG, 1128x191 LinkedIn kapağı). Gerekçe: `marka/secim.md`.
+- Dosyalar: `marka/` (logo-siyah/fildisi/yesil.svg, yazi-siyah/fildisi.svg, 400px profil PNG, 1128x191 LinkedIn kapağı).
 - Ürünlerin kendi renkleri olabilir; stüdyo işareti hiçbir ürünün temasını taşımaz.
 
 ## Kanallar
