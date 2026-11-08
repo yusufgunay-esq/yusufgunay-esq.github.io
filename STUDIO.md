@@ -13,9 +13,9 @@ Konum: en üst lig. Ciddi, kurumsal, zamansız, güven veren. Marka dilinde "kü
 ## Ne yapar (portföy, 2026-11)
 Stüdyo tek bir ürüne bağlı değildir. Dört alanda çalışır:
 - **Masaüstü uygulamaları (Windows):** yazma, çeviri, dikte, kişisel arşiv, sistem araçları. Örnek: Divit (Microsoft Store).
-- **Mobil uygulamalar (Android):** sağlık ve beslenme takibi, harita ve yürüyüş, veri tasarrufu, eğitim.
+- **Mobil uygulamalar (Android):** sağlık ve beslenme takibi, harita ve yürüyüş, veri tasarrufu, odaklanma ve ritim. Örnek: Wend, Leucine, Kertik.
 - **Oyunlar:** strateji, dövüş, ritim, satranç, co-op ve hikâye oyunları.
-- **Açık kaynak ve geliştirici araçları:** ekran çevirisi, yapay zekâ konsolu, oyun yapay zekâsı.
+- **Açık kaynak ve geliştirici araçları:** ekran çevirisi, yapay zekâ konsolu, oyun yapay zekâsı. Örnek: stuntdouble, evren-desktop, EkranCeviri.
 
 Hiçbir ürün markanın yüzü değildir; marka hepsinin çatısıdır.
 
